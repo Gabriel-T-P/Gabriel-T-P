@@ -4,7 +4,6 @@ Sou um desenvolvedor **full stack** apaixonado por resolver problemas com códig
 
 Busco oportunidades para colaborar em projetos desafiadores, onde eu possa crescer profissionalmente e contribuir de forma significativa para o time e para o produto.
 
----
 
 ## 🧠 Linguagens de Programação
 
@@ -15,7 +14,6 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
----
 
 ## 🧰 Frameworks, Bibliotecas e Ferramentas
 
@@ -26,7 +24,6 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
----
 
 ## 🧪 Boas práticas e metodologias
 
@@ -36,18 +33,16 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-blue?style=flat-square&logo=githubactions)
 
----
 
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-thiago-tavares-ribeiro-31aaa8189/)
 - E-mail: gabrielthiago2000@hotmail.com
 
----
 
 ## 📈 GitHub Stats
 
-![Gabriel Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielThiagoRibeiro&show_icons=true&theme=default)
+![Gabriel-T-P GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielThiagoRibeiro&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielThiagoRibeiro&layout=compact)
 
 ---
