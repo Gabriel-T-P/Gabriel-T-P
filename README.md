@@ -21,7 +21,7 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-E5F032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 
