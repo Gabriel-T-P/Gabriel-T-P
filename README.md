@@ -42,8 +42,8 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 
 ## 📈 GitHub Stats
 
-![Gabriel-T-P GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielThiagoRibeiro&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielThiagoRibeiro&layout=compact)
+![Gabriel-T-P GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-T-P&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-T-P&layout=compact)
 
 ---
 
