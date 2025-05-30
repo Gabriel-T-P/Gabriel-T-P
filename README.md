@@ -31,7 +31,7 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-1f425f?style=flat-square)
 ![Agile](https://img.shields.io/badge/-Agile-02569B?style=flat-square&logo=scrumalliance)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI/CD-blue?style=flat-square&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/-CI/CD-white?style=flat-square&logo=githubactions)
 
 
 ## 📫 Contato
@@ -42,7 +42,6 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 
 ## 📈 GitHub Stats
 
-![Gabriel-T-P GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-T-P&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-T-P&layout=compact)
 
 ---
