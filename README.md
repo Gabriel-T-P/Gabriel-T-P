@@ -26,7 +26,6 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
