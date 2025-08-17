@@ -1,55 +1,61 @@
 # 👋 Olá, eu sou o Gabriel Thiago!
 
-Sou um desenvolvedor **full stack** apaixonado por resolver problemas com código e criar soluções robustas e escaláveis. Tenho experiência com tecnologias como **Ruby on Rails, React, Python e C**, e foco em escrever código limpo e testável, aplicando práticas como **TDD** sempre que possível.
+Sou um desenvolvedor **Full Stack** apaixonado por resolver problemas com código e criar soluções robustas e escaláveis.  
+Tenho experiência com **Ruby on Rails, React, Python e C**, sempre com foco em **código limpo, testável e boas práticas de desenvolvimento (TDD, DRY, Clean Code, CI/CD)**.  
 
 Busco oportunidades para colaborar em projetos desafiadores, onde eu possa crescer profissionalmente e contribuir de forma significativa para o time e para o produto.
 
+---
 
 ## 🧠 Linguagens de Programação
 
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
 ## 🧰 Frameworks, Bibliotecas e Ferramentas
 
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-526462?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-AD21DD?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-E5F032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-## 🧪 Boas práticas e metodologias
+## 🧪 Boas Práticas e Metodologias
 
-![TDD](https://img.shields.io/badge/-TDD-00C853?style=flat-square&logo=testing-library&logoColor=white)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-1f425f?style=flat-square)
-![Agile](https://img.shields.io/badge/-Agile-02569B?style=flat-square&logo=scrumalliance)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI/CD-white?style=flat-square&logo=githubactions)
+![TDD](https://img.shields.io/badge/TDD-%2300C853?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-%231f425f?style=for-the-badge&logo=dependabot&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2302569B?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%236DB33F?style=for-the-badge&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
+## 📈 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-T-P&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-T-P&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-thiago-tavares-ribeiro-31aaa8189/)
-- E-mail: gabrielthiago2000@hotmail.com
-
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-T-P&layout=compact)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-t-t-r/)
+- ✉️ **gabrielthiago2000@hotmail.com**
 
 ---
 
 ## ✨ Sobre mim
 
-Quando não estou programando, você provavelmente vai me encontrar praticando **calistenia**, lendo um bom **livro**, jogando **video games** ou aumentando minha coleção de cartas.
+Quando não estou programando, você provavelmente vai me encontrar praticando **calistenia**, lendo um bom **livro**, jogando **video games** ou aumentando minha coleção de cartas.  
 
-Acredito no aprendizado constante e estou sempre em busca de evoluir tanto como desenvolvedor quanto como pessoa.
-
----
+Acredito no **aprendizado constante** e estou sempre em busca de evoluir tanto como desenvolvedor quanto como pessoa.
