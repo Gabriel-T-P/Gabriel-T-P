@@ -50,7 +50,7 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-t-t-r/)
-- ✉️ **gabrielthiago2000@hotmail.com**
+- **gabrielthiago2000@hotmail.com**
 
 ---
 
