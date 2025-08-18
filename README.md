@@ -1,13 +1,15 @@
-# 👋 Olá, eu sou o Gabriel Thiago!
+# 👋 Hi, I'm Gabriel Thiago!  
 
-Sou um desenvolvedor **Full Stack** apaixonado por resolver problemas com código e criar soluções robustas e escaláveis.  
-Tenho experiência com **Ruby on Rails, React, Python e C**, sempre com foco em **código limpo, testável e boas práticas de desenvolvimento (TDD, DRY, Clean Code, CI/CD)**.  
+🔗 [Versão em Português](https://github.com/Gabriel-T-P/readme-pt)
 
-Busco oportunidades para colaborar em projetos desafiadores, onde eu possa crescer profissionalmente e contribuir de forma significativa para o time e para o produto.
+I'm a **Full Stack Developer** passionate about solving problems with code and building robust, scalable solutions.  
+I have experience with **Ruby on Rails, React, Python, and C**, always focusing on **clean, testable code and development best practices (TDD, DRY, Clean Code, CI/CD)**.  
+
+I’m looking for opportunities to collaborate on challenging projects where I can grow professionally while making meaningful contributions to the team and product.  
 
 ---
 
-## 🧠 Linguagens de Programação
+## 🧠 Programming Languages  
 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +20,7 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 
 ---
 
-## 🧰 Frameworks, Bibliotecas e Ferramentas
+## 🧰 Frameworks, Libraries & Tools  
 
 ![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -29,7 +31,7 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 
 ---
 
-## 🧪 Boas Práticas e Metodologias
+## 🧪 Best Practices & Methodologies  
 
 ![TDD](https://img.shields.io/badge/TDD-%2300C853?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%231f425f?style=for-the-badge&logo=dependabot&logoColor=white)
@@ -39,22 +41,22 @@ Busco oportunidades para colaborar em projetos desafiadores, onde eu possa cresc
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-T-P&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-T-P&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contato
+## 📫 Contact  
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-t-t-r/)
-- **gabrielthiago2000@hotmail.com**
+- [LinkedIn](https://www.linkedin.com/in/gabriel-t-t-r/)  
+- **gabrielthiago2000@hotmail.com**  
 
 ---
 
-## ✨ Sobre mim
+## ✨ About Me  
 
-Quando não estou programando, você provavelmente vai me encontrar praticando **calistenia**, lendo um bom **livro**, jogando **video games** ou aumentando minha coleção de cartas.  
+When I’m not coding, you’ll probably find me practicing **calisthenics**, reading a good **book**, playing **video games**, or expanding my **trading card collection**.  
 
-Acredito no **aprendizado constante** e estou sempre em busca de evoluir tanto como desenvolvedor quanto como pessoa.
+I strongly believe in **continuous learning** and I’m always looking to improve — both as a developer and as a person.  
